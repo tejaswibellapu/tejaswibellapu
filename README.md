@@ -1,16 +1,48 @@
-## Hi there 👋
+<h2 align="center">✨ Hey, I'm Tejaswi ✨</h2>
 
-<!--
-**tejaswibellapu/tejaswibellapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+🔭Software Developer passionate about AI, ML, Generative AI, Cloud & 🌱Full-Stack Development
+</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejaswibellapu&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+-  Aspiring Software Development Engineer
+-  Passionate about Artificial Intelligence, Machine Learning & Generative AI
+-  Exploring Cloud Technologies and Google Cloud Platform
+-  Learning Full-Stack Web Development 
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tejaswibellapu/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:tejaswibellapu09@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+
+##  Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,fastapi,mysql,mongodb,opencv,tensorflow,pytorch,docker,firebase,gcp,git,github,arduino,vscode" />
+</p>
+
+
+##  GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tejaswibellapu&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejaswibellapu&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswibellapu&layout=compact&theme=tokyonight)
+
+---
