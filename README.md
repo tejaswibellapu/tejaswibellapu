@@ -36,13 +36,3 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,fastapi,mysql,mongodb,opencv,tensorflow,pytorch,docker,firebase,gcp,git,github,arduino,vscode" />
 </p>
 
-
-##  GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tejaswibellapu&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejaswibellapu&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswibellapu&layout=compact&theme=tokyonight)
-
----
