@@ -1,7 +1,7 @@
-<h2 align="center">✨ Hey, I'm Tejaswi ✨</h2>
+<h2 align="center">Hey, I'm Tejaswi </h2>
 
 <h4 align="center">
-🔭Software Developer passionate about AI, ML, Generative AI, Cloud & 🌱Full-Stack Development
+Software Developer passionate about AI, ML
 </h4>
 
 <p align="center">
@@ -9,13 +9,6 @@
 </p>
 
 ---
-
-##  About Me
-
--  Aspiring Software Development Engineer
--  Passionate about Artificial Intelligence, Machine Learning & Generative AI
--  Exploring Cloud Technologies and Google Cloud Platform
--  Learning Full-Stack Web Development 
 
 ## 📫 Connect With Me
 
@@ -33,6 +26,10 @@
 ##  Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,fastapi,mysql,mongodb,opencv,tensorflow,pytorch,docker,firebase,gcp,git,github,arduino,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,fastapi" />
 </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,pytorch,docker,gcp,git,github,arduino" />
+</p>
+
 
